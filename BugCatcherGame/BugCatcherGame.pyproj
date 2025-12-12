@@ -1,0 +1,138 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>fafe5d8a-7b71-43df-aef9-ce1e11944d32</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>BugCatcherGame.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>BugCatcherGame</Name>
+    <RootNamespace>BugCatcherGame</RootNamespace>
+    <InterpreterId>Global|PythonCore|3.12</InterpreterId>
+    <IsWindowsApplication>False</IsWindowsApplication>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="BugCatcherGame.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="media\" />
+    <Folder Include="media\image\" />
+    <Folder Include="media\image\backgrounds\" />
+    <Folder Include="media\image\entities\" />
+    <Folder Include="media\image\entities\boss\" />
+    <Folder Include="media\image\entities\boss\items\" />
+    <Folder Include="media\image\entities\boss\spagetti\" />
+    <Folder Include="media\image\entities\boss\useless_comment\" />
+    <Folder Include="media\image\entities\boss\useless_comment\comment_block\" />
+    <Folder Include="media\image\entities\boss\useless_comment\warning_block\" />
+    <Folder Include="media\image\entities\clean_code\" />
+    <Folder Include="media\image\entities\error_code\" />
+    <Folder Include="media\image\entities\items\" />
+    <Folder Include="media\image\entities\player\" />
+    <Folder Include="media\image\ui_elements\" />
+    <Folder Include="media\image\ui_elements\fader_mask\" />
+    <Folder Include="media\image\ui_elements\hp_bar\" />
+    <Folder Include="media\image\ui_elements\interface_panels\" />
+    <Folder Include="media\image\ui_elements\key_selection\" />
+    <Folder Include="media\music\" />
+    <Folder Include="media\music\bgm\" />
+    <Folder Include="media\music\effect\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="media\image\backgrounds\fader_mask.png" />
+    <Content Include="media\image\backgrounds\main_bg.png" />
+    <Content Include="media\image\backgrounds\title_bg.png" />
+    <Content Include="media\image\entities\boss\items\drink.png" />
+    <Content Include="media\image\entities\boss\spagetti\meatball.png" />
+    <Content Include="media\image\entities\boss\spagetti\spagetti01.png" />
+    <Content Include="media\image\entities\boss\spagetti\spagetti02.png" />
+    <Content Include="media\image\entities\boss\useless_comment\comment_block\comment01.png" />
+    <Content Include="media\image\entities\boss\useless_comment\comment_block\comment02.png" />
+    <Content Include="media\image\entities\boss\useless_comment\comment_block\comment03.png" />
+    <Content Include="media\image\entities\boss\useless_comment\comment_block\comment04.png" />
+    <Content Include="media\image\entities\boss\useless_comment\comment_block\comment05.png" />
+    <Content Include="media\image\entities\boss\useless_comment\comment_block\comment06.png" />
+    <Content Include="media\image\entities\boss\useless_comment\comment_block\comment07.png" />
+    <Content Include="media\image\entities\boss\useless_comment\warning_block\warning01.png" />
+    <Content Include="media\image\entities\boss\useless_comment\warning_block\warning02.png" />
+    <Content Include="media\image\entities\boss\useless_comment\warning_block\warning03.png" />
+    <Content Include="media\image\entities\boss\useless_comment\warning_block\warning04.png" />
+    <Content Include="media\image\entities\boss\useless_comment\warning_block\warning05.png" />
+    <Content Include="media\image\entities\boss\useless_comment\warning_block\warning06.png" />
+    <Content Include="media\image\entities\boss\useless_comment\warning_block\warning07.png" />
+    <Content Include="media\image\entities\clean_code\correct_comment01.png" />
+    <Content Include="media\image\entities\clean_code\correct_operater01.png" />
+    <Content Include="media\image\entities\clean_code\correct_print01.png" />
+    <Content Include="media\image\entities\clean_code\correct_print02.png" />
+    <Content Include="media\image\entities\clean_code\correct_variable01.png" />
+    <Content Include="media\image\entities\clean_code\correct_variable02.png" />
+    <Content Include="media\image\entities\clean_code\correct_variable03.png" />
+    <Content Include="media\image\entities\clean_code\correct_variable04.png" />
+    <Content Include="media\image\entities\error_code\error_comment01.png" />
+    <Content Include="media\image\entities\error_code\error_operator01.png" />
+    <Content Include="media\image\entities\error_code\error_print01.png" />
+    <Content Include="media\image\entities\error_code\error_print02.png" />
+    <Content Include="media\image\entities\error_code\error_print03.png" />
+    <Content Include="media\image\entities\error_code\error_print04.png" />
+    <Content Include="media\image\entities\error_code\error_variable01.png" />
+    <Content Include="media\image\entities\error_code\error_variable02.png" />
+    <Content Include="media\image\entities\error_code\error_variable03.png" />
+    <Content Include="media\image\entities\items\ai.png" />
+    <Content Include="media\image\entities\items\coffee.png" />
+    <Content Include="media\image\entities\items\deadline.png" />
+    <Content Include="media\image\entities\player\cursor.png" />
+    <Content Include="media\image\entities\player\player.png" />
+    <Content Include="media\image\ui_elements\fader_mask\alpha1.png" />
+    <Content Include="media\image\ui_elements\fader_mask\alpha10.png" />
+    <Content Include="media\image\ui_elements\fader_mask\alpha11.png" />
+    <Content Include="media\image\ui_elements\fader_mask\alpha2.png" />
+    <Content Include="media\image\ui_elements\fader_mask\alpha3.png" />
+    <Content Include="media\image\ui_elements\fader_mask\alpha4.png" />
+    <Content Include="media\image\ui_elements\fader_mask\alpha5.png" />
+    <Content Include="media\image\ui_elements\fader_mask\alpha6.png" />
+    <Content Include="media\image\ui_elements\fader_mask\alpha7.png" />
+    <Content Include="media\image\ui_elements\fader_mask\alpha8.png" />
+    <Content Include="media\image\ui_elements\fader_mask\alpha9.png" />
+    <Content Include="media\image\ui_elements\hp_bar\hp_empty.png" />
+    <Content Include="media\image\ui_elements\hp_bar\hp_full.png" />
+    <Content Include="media\image\ui_elements\interface_panels\chat_window.png" />
+    <Content Include="media\image\ui_elements\interface_panels\interface.png" />
+    <Content Include="media\image\ui_elements\key_selection\arrow_selected.png" />
+    <Content Include="media\image\ui_elements\key_selection\arrow_unselected.png" />
+    <Content Include="media\image\ui_elements\key_selection\wasd_selected.png" />
+    <Content Include="media\image\ui_elements\key_selection\wasd_unselected.png" />
+    <Content Include="media\music\bgm\game_over_bgm.mp3" />
+    <Content Include="media\music\bgm\low_hp_bgm.mp3" />
+    <Content Include="media\music\bgm\main_game_bgm.mp3" />
+    <Content Include="media\music\bgm\title_bgm.mp3" />
+    <Content Include="media\music\bgm\vs_boss_bgm.mp3" />
+    <Content Include="media\music\effect\buff.mp3" />
+    <Content Include="media\music\effect\death.mp3" />
+    <Content Include="media\music\effect\debuff.mp3" />
+    <Content Include="media\music\effect\select.mp3" />
+    <Content Include="media\music\effect\shoot.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <InterpreterReference Include="Global|PythonCore|3.12" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>
