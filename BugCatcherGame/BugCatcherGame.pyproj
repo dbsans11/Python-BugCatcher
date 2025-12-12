@@ -11,7 +11,6 @@
     <OutputPath>.</OutputPath>
     <Name>BugCatcherGame</Name>
     <RootNamespace>BugCatcherGame</RootNamespace>
-    <InterpreterId>Global|PythonCore|3.12</InterpreterId>
     <IsWindowsApplication>False</IsWindowsApplication>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
@@ -122,9 +121,6 @@
     <Content Include="media\music\effect\debuff.mp3" />
     <Content Include="media\music\effect\select.mp3" />
     <Content Include="media\music\effect\shoot.mp3" />
-  </ItemGroup>
-  <ItemGroup>
-    <InterpreterReference Include="Global|PythonCore|3.12" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
