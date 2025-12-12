@@ -132,8 +132,6 @@ shoot &emsp; [pixabay - Fire](https://pixabay.com/ko/sound-effects/fire-88783/)
 
 etc
 ---
-> 약 스포일러 주의!
-
 타 게임 오마주 요소가 게임 내에 포함되어 있습니다.
 </br></br>
 게임 언더테일의 게임 오버 방식을 오마주 했습니다.   
