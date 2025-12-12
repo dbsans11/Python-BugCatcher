@@ -132,14 +132,25 @@ shoot &emsp; [pixabay - Fire](https://pixabay.com/ko/sound-effects/fire-88783/)
 
 etc
 ---
+> 약 스포일러 주의!
+
 타 게임 오마주 요소가 게임 내에 포함되어 있습니다.
 </br></br>
 게임 언더테일의 게임 오버 방식을 오마주 했습니다.   
-▶ 원본   
+* 원본   
 [![Undertale Game Over Scene](https://img.youtube.com/vi/6S21ZSsC21U/0.jpg)](https://www.youtube.com/watch?v=6S21ZSsC21U)   
-</br>
-
-▶ 오마주   
+* 오마주   
 [![Demoplay: game over](https://img.youtube.com/vi/xR1til4t_XA/0.jpg)](https://youtube.com/shorts/xR1til4t_XA)
 </br></br>
+
 게임 PokeRogue의 보스 무한다이노의 대사를 오마주 했습니다.
+<table>
+  <tr>
+    <td align="center"><img height="300" alt="Image" src="https://github.com/user-attachments/assets/02416771-ca97-4254-9aa8-c5fa4467b037" /></td>
+    <td align="center"><img height="300" alt="Image" src="https://github.com/user-attachments/assets/ca9fe2e1-8663-4cf4-8491-cdbfc9ebf64e" /></td>
+  </tr>
+  <tr>
+    <td align="center">원본</td>
+    <td align="center">오마주</td>
+  </tr>
+</table>  
