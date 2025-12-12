@@ -135,6 +135,6 @@ etc
 타 게임 오마주 요소가 게임 내에 포함되어 있습니다.
 </br>
 게임 언더테일의 게임 오버 방식을 오마주 했습니다.   
-[![Demoplay: game over](http://img.youtube.com/vi/xR1til4t_XA/0.jpg)](https://youtube.com/vi/xR1til4t_XA)
+[![Demoplay: game over](https://img.youtube.com/shorts/xR1til4t_XA/0.jpg)](https://youtu.be/shorts/xR1til4t_XA)
 </br>
 게임 PokeRogue의 보스 무한다이노의 대사를 오마주 했습니다.
