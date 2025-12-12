@@ -29,7 +29,7 @@ tkinter를 기반으로 구현한 코딩 학습용 종스크롤 슈팅 게임입
 
 실행 영상
 ---
-
+[![demo play](https://img.youtube.com/vi/APZV5y0KOkA/0.jpg)](https://youtu.be/APZV5y0KOkA)
 </br></br>
 
 게임 설명
@@ -140,7 +140,7 @@ etc
 * 원본   
 [![Undertale Game Over Scene](https://img.youtube.com/vi/6S21ZSsC21U/0.jpg)](https://www.youtube.com/watch?v=6S21ZSsC21U)   
 * 오마주   
-[![Demoplay: game over](https://img.youtube.com/vi/xR1til4t_XA/0.jpg)](https://youtube.com/shorts/xR1til4t_XA)
+[![demo play - game over](https://img.youtube.com/vi/xR1til4t_XA/0.jpg)](https://youtube.com/shorts/xR1til4t_XA)
 </br></br>
 
 게임 PokeRogue의 보스 무한다이노의 대사를 오마주 했습니다.
