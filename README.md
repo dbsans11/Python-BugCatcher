@@ -29,7 +29,8 @@ tkinter를 기반으로 구현한 코딩 학습용 종스크롤 슈팅 게임입
 
 실행 영상
 ---
-[![demo play](https://img.youtube.com/vi/APZV5y0KOkA/0.jpg)](https://youtu.be/APZV5y0KOkA)
+[![demo play](https://img.youtube.com/vi/APZV5y0KOkA/0.jpg)](https://youtu.be/APZV5y0KOkA)   
+이미지 클릭 시 데모 영상으로 이동합니다.
 </br></br>
 
 게임 설명
