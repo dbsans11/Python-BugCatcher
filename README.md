@@ -21,8 +21,7 @@ tkinter를 기반으로 구현한 코딩 학습용 종스크롤 슈팅 게임입
 │    │    │    └── effect
 │    │    │         ├── ...
 │    ├── BugCacherGame.py               실행 py 코드
-│    ├── BugCatcherGame.pyproj
-│    └── BugCatcherGame.pyproj.user
+│    └── BugCatcherGame.pyproj
 ├── BugCatcherSolution.sln              솔루션 파일
 └── README.md
 ```
