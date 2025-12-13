@@ -125,7 +125,7 @@ shoot &emsp; [pixabay - Fire](https://pixabay.com/ko/sound-effects/fire-88783/)
 </br>
 
 전부 CCO 에셋 사용하였습니다.
-그 외 기재되지 않은 에셋들은 직접 제작했습니다.
+기재되지 않은 에셋들은 직접 제작했습니다.
 </br></br>
 
 
