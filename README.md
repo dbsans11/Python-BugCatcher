@@ -5,12 +5,16 @@ tkinter를 기반으로 구현한 코딩 학습용 종스크롤 슈팅 게임입
 
 프로젝트 정보
 ---
-**개발 기간:** 25.11.20(목) - 25.12.13(일)   
-**개발자:** 컴퓨터공학부 2025014396 이다윤 ([@dbsans11](https://github.com/dbsans11))
+### 개발 정보
+개발 기간: 25.11.20(목) - 25.12.13(일)   
+개발자: 컴퓨터공학부 2025014396 이다윤 ([@dbsans11](https://github.com/dbsans11))
 </br>
+사용 언어: Python
+IDE: Visual Studio
+주요 기능: 키 커스터마이징, 일시정지, 보스전 시스템, 플레이어 체력에 따른 bgm 변경, 게임 오버 애니메이션 등
+</br></br>
 
-레포토리지 구조
----
+### 레포토리지 구조
 ```
 ├── BugCatcherGame                      프로젝트 폴더
 │    ├── media                          에셋
@@ -137,14 +141,15 @@ shoot &emsp; [pixabay - Fire](https://pixabay.com/ko/sound-effects/fire-88783/)
 
 개발자 노트
 ---
-* 타 게임 오마주 요소가 게임 내에 포함되어 있습니다.
-  * 게임 이름은 포켓몬스터 npc 곤충채집소년의 영문명에서 따왔습니다.
-  * 게임 언더테일의 게임 오버 방식을 오마주 했습니다.   
+타 게임 오마주 요소가 게임 내에 포함되어 있습니다.
+* 모티브가 된 게임은 드래곤 플라이트입니다.
+* 게임 이름은 포켓몬스터 npc 곤충채집소년의 영문명에서 따왔습니다.
+* 게임 언더테일의 게임 오버 방식을 오마주 했습니다.   
 원본   
 [![Undertale Game Over Scene](https://img.youtube.com/vi/6S21ZSsC21U/0.jpg)](https://www.youtube.com/watch?v=6S21ZSsC21U)   
 오마주   
 [![demo play - game over](https://img.youtube.com/vi/xR1til4t_XA/0.jpg)](https://youtube.com/shorts/xR1til4t_XA)
-  * 게임 PokeRogue의 보스 무한다이노의 대사를 오마주 했습니다.
+* 게임 PokeRogue의 보스 무한다이노의 대사를 오마주 했습니다.
 <table>
   <tr>
     <td align="center"><img height="300" alt="Image" src="https://github.com/user-attachments/assets/02416771-ca97-4254-9aa8-c5fa4467b037" /></td>
@@ -155,5 +160,3 @@ shoot &emsp; [pixabay - Fire](https://pixabay.com/ko/sound-effects/fire-88783/)
     <td align="center">오마주</td>
   </tr>
 </table>
-
-* 
