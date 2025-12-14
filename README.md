@@ -160,6 +160,7 @@ shoot &emsp; [pixabay - Fire](https://pixabay.com/ko/sound-effects/fire-88783/)
     <td align="center">오마주</td>
   </tr>
 </table>
+</br>
 
 이번 프로젝트를 통해 게임을 플레이어가 아닌 개발자의 시선으로 바라볼 수 있었습니다.     
 적 생성 로직을 구현하는 과정에서 적들이 서로 겹치지 않도록 좌표를 생성하는 방식을 고민했고,   
