@@ -3,6 +3,12 @@ bug_catcher
 tkinter를 기반으로 구현한 코딩 학습용 종스크롤 슈팅 게임입니다.
 </br></br>
 
+프로젝트 정보
+---
+**개발 기간:** 25.11.20(목) - 25.12.13(일)   
+**개발자:** 컴퓨터공학부 2025014396 이다윤 ([@dbsans11](https://github.com/dbsans11))
+</br>
+
 레포토리지 구조
 ---
 ```
@@ -148,4 +154,6 @@ shoot &emsp; [pixabay - Fire](https://pixabay.com/ko/sound-effects/fire-88783/)
     <td align="center">원본</td>
     <td align="center">오마주</td>
   </tr>
-</table>  
+</table>
+
+* 
