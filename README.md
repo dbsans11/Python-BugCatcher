@@ -7,7 +7,7 @@ tkinter를 기반으로 구현한 코딩 학습용 종스크롤 슈팅 게임입
 ---
 ### 개발 정보
 * 개발 기간: 25.11.20(목) - 25.12.13(일)   
-* 개발자: 컴퓨터공학부 2025014396 이다윤 ([@dbsans11](https://github.com/dbsans11))
+* 개발자: [@dbsans11](https://github.com/dbsans11)
 </br></br>
 * 사용 언어: Python   
 * IDE: Visual Studio   
@@ -162,7 +162,7 @@ shoot &emsp; [pixabay - Fire](https://pixabay.com/ko/sound-effects/fire-88783/)
 </table>
 </br>
 
-느낀점
+후기
 > 이번 프로젝트를 통해 게임을 플레이어가 아닌 개발자의 시선으로 바라볼 수 있었습니다.     
 > 적 생성 로직을 구현하는 과정에서 적들이 서로 겹치지 않도록 좌표를 생성하는 방식을 고민했고,   
 > 이를 직접 설계하고 구현하며 관련 로직에 대한 이해를 높일 수 있었습니다.   
